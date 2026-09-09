@@ -1,5 +1,0 @@
-name = input("enter a name: ")
-place = input("enter a place: ")
-feeling = input("enter a feeling: ")
-item = input("enter an item: ")
-print(f"there was an evening in {place} that a strange man was lost in the city.his name was {name},and he was in there because of his job,that he was a photographer.{name} didn't know where to go,he was looking for an hotel or something because it was getting dark.and he didn't know their language,and that made things more difficult.after a while of walking around the city,he finally found a little boy,that the boy could understand what {name} said and want.the boy gave him a {item} that it was an address for an hotel,that {name} can stay there until tomorrow.and {name} felt so {feeling} about the boy and the address.he thanked the boy and started walking to the address.and this was how he learned how a little boy could have a great help") 
